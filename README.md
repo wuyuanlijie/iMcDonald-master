@@ -9,11 +9,12 @@
 * utils — 存放utils文件，可require引入
 
 ## 项目截图
-![Image text]()
-![Image text]()
-![Image text]()
-![Image text]()
-![Image text]()
-![Image text]()
-![Image text]()
-![Image text]()
+![Image text](https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/image/1.png) \
+![Image text](https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/image/2.png)
+![Image text](https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/image/3.png)
+![Image text](https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/image/4.png)
+![Image text](https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/image/4.5.png)
+![Image text](https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/image/5.png)
+![Image text](https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/image/6.png)
+![Image text](https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/image/7.png)
+![Image text](https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/image/7.1.png)
