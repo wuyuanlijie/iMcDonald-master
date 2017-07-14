@@ -51,7 +51,6 @@
   ![Alt text](https://github.com/wuyuanlijie/McDonald-s/blob/master/jifen.gif)
  ![Alt text](https://github.com/wuyuanlijie/McDonald-s/blob/master/gif/userinfo.gif)
 
-  ![Alt text](https://github.com/wuyuanlijie/McDonald-s/blob/master/register.gif)
 
 ## 部分功能解析
 ### 1. 获取本地信息 
