@@ -1,0 +1,6 @@
+<!--pages/qrcodenull/qrcodenull.wxml-->
+<view class="container">
+   <image class="logo" src="/images/qrcodeM.png" />
+   <view class="text">您未注册麦享会，暂无会员二维码。</view>
+   <button type="button" bindtap="registertap" class="button">立即注册</button>
+</view>

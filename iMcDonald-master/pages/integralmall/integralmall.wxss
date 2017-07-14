@@ -1,0 +1,90 @@
+/* pages/integralmall/integralmall.wxss */
+Page{
+  width: 100%;
+  background: #EFEFF5;
+}
+/*先设置盒子的大小 图片会适应盒子的大小*/
+.swiper {
+  margin-left:5%;
+  margin-top: 30rpx;
+  height: 410rpx;
+  width: 90%;
+}
+
+.side-img {
+  display: block;
+  height: 350rpx;
+  width: 100%;
+  z-index: 1;
+}
+.swiper:before{
+  content: "";
+  display: inline-block;
+  width: 23rpx;
+  height: 23rpx;
+  border: 3rpx solid #A9A9A9;
+  border-left: none;
+  border-bottom: none;
+  transform: rotate(225deg);
+  position: absolute;
+  top: 198rpx;
+  left:2%;
+}
+
+.swiper:after{
+  content: "";
+  display: inline-block;
+  width: 23rpx;
+  height: 23rpx;
+  border: 3rpx solid #A9A9A9;
+  border-left: none;
+  border-bottom: none;
+  transform: rotate(45deg);
+  position: absolute;
+  top: 198rpx;
+  left: 95%;
+}
+
+/*横线的设置*/
+.line {
+  margin: 0rpx 5%;
+  border: 1px dotted #d9d9d9;
+  transform: scaleY(.3);
+  transform-origin: 0 0;
+
+}
+/* 查看详细和立即兑换设置 */
+.click {
+  position: absolute;
+  font-size: 25rpx;
+  color: #4a4a4a;
+  text-decoration:underline;
+
+}
+.check {
+  left: 70rpx;
+  top: 300rpx;
+}
+.exchange {
+  left: 220rpx;
+  top: 300rpx;
+}
+/*模拟弹窗*/
+.more {
+  width: 90%;
+  margin-top: 25rpx;
+  margin-left: 5%;
+  height: 350rpx;
+  position: relative;
+}
+.more_img {
+    height: 350rpx;
+    width: 100%
+}
+.more_text {
+  position: absolute;
+  color: #6c6c6c;
+  font-size: 30rpx;
+  left: 30%;
+  top: 45%;
+}

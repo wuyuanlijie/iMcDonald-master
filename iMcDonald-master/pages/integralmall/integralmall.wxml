@@ -1,0 +1,29 @@
+<!--pages/integralmall/integralmall.wxml-->
+<swiper class="swiper" indicator-dots="true"
+  autoPlay="false"  indicator-color="#a8a8ac"
+  indicator-active-color="#ffc324">
+  <text class="arrowleft"></text>
+  <block wx:for="{{imgs}}" wx:key="" class="block" >
+    <swiper-item >
+        <navigator url="/pages/integraldetail/integraldetail?url={{item.url}}&description={{item.description}}&prompt={{item.prompt}}">
+            <image  src="{{item.url}}" class="side-img" />
+            <view class="check click">查看详情</view>
+        </navigator>
+
+        <view class="exchange click" bindtap="exchangetap">立即兑换</view>
+    </swiper-item>
+
+  </block>
+  <text class="arrowright"></text>
+
+</swiper>
+<view class="line"></view>
+
+<modal title="温馨提示：" class="modal" confirm-text="确定" cancel-text="取消"
+         hidden="{{modalHidden}}" bindconfirm="modalConfirm" bindcancel="modalCancel">
+           确定使用10积分兑换这些吗？
+</modal>
+<view class="more">
+  <image  src="/images/img_more.png" class="more_img" />
+  <text class="more_text">更多优惠券陆续添加中...</text>
+</view>

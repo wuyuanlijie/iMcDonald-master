@@ -1,0 +1,5 @@
+<!--pages/queryintegral/queryintegral.wxml-->
+<view class="page">
+  <text class="page_text">近期积分查询</text>
+  <text class="page_text">积分规则 >></text>
+</view>

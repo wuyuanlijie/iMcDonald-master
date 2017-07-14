@@ -1,0 +1,14 @@
+/* pages/queryintegral/queryintegral.wxss */
+Page {
+  background-color: #EFEFF5;
+}
+.page {
+  padding: 30rpx 40rpx;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 26rpx;
+}
+.page_text {
+    font-family: #efeff5;
+}

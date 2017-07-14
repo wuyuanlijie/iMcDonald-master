@@ -1,0 +1,30 @@
+.list{
+  height: 100%;
+}
+.new {
+  margin: 30rpx 5rpx 30rpx 30rpx;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.video {
+  height: 160rpx;
+  width: 270rpx;
+}
+.textall {
+  padding: 5rpx 0rpx 0rpx 30rpx;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 160rpx;
+  align-items: center;
+
+}
+.text1 {
+  font-size: 29rpx;
+}
+.text2 {
+  font-size: 28rpx;
+  color: #6c6c6c;
+}

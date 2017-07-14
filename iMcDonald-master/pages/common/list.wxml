@@ -1,0 +1,18 @@
+<template name="list">
+
+  <view class="content">
+    <block wx:for="{{newsList}}" wx:key="">
+      <view class="new">
+        <image class='video' src="{{item.url}}"/>
+         <view class="textall">
+           <view class="text1">{{item.description}}</view>
+           <view class="text2">{{item.description}}</view>
+         </view>
+      </view>
+    </block>
+
+  </view>
+
+
+
+</template>

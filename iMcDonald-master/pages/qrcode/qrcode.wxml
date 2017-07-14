@@ -1,0 +1,52 @@
+<!--pages/qrcode/qrcode.wxml-->
+<!-- wx:for={{userList}} -->
+
+
+<block wx:for="{{userList}}" wx:key="">
+
+  <view class="usercodeinfo">
+    <view class="usercodeinfo-avatar">
+      <image class="usercodeinfo-avatar-img" src="{{url}}" />
+    </view>
+    <view class="usercodeinfo-detail">
+      <view class="usercodeinfo-detail-firstline">
+        <text class="usercodeinfo-detail-firstline-name">{{name}}</text>
+      </view>
+
+      <view class="usercodeinfo-detail-secondline">
+        累计积分<text class="usercodeinfo-detail-secondline-allintegral">{{item.totalintegral}}</text>
+        可用积分<text class="usercodeinfo-detail-secondline-availableintegral">{{item.availableintegral}}</text>
+        <image class="usercodeinfo-detail-questionimg" src="/images/questionicon.png"/>
+      </view>
+
+    </view>
+
+    <view class="usercodeinfo-qrcode">
+      <image class="usercodeinfo-qrcode-img" src="/images/qrcodeSmall.png" />
+    </view>
+  </view>
+
+  <view class="userintegral">
+    <view class="userintegral-text1">
+      离下一个圆筒
+    </view>
+    <view class="userintegral-text2">
+
+      <view class="userintegral-text2-dot1" ></view>
+      <text class="userintegral-text2-text">还差39点积分</text>
+      <view class="userintegral-text2-dot2" ></view>
+
+    </view>
+
+    <view class="userintegral-show">
+      <text class="userintegral-show-text3">柜台手机支付前出示会员码 1元积1分</text>
+      <text bindtap="querytap" class="userintegral-show-query">查询积分 >></text>
+    </view>
+
+    <view class="userintegral-qrcode">
+      <image  src="/images/qrcode.png" class="userintegral-qrcode-img"/>
+    </view>
+    <button  type="button" class="userintegral-button" bindtap="bindtointegral">查看我能兑换什么</button>
+  </view>
+
+</block>

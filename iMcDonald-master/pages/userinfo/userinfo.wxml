@@ -1,0 +1,46 @@
+<!--pages/userinfo/userinfo.wxml-->
+
+<view class="post-userList">
+  <block wx:for="{{userList}}" wx:key="userList">
+
+
+    <view class="userlogo">
+      <image class="userlogo-img" src="{{item.url}}" />
+      <text class="userlogo-phone">15279106115</text>
+    </view>
+
+    <view class="userdata">
+      <view class="userdata-name">昵称</view>
+      <view class="userdata-symbol"></view>
+      <input class="userdata-input" type="text" placeholder="请输入昵称"  value="{{item.name}}"/>
+    </view>
+
+    <view class="userdata">
+      <view class="userdata-name" >性别</view>
+      <view class="userdata-symbol"></view>
+      <picker mode="selector" class="userdata-input" range="{{actionSexItems}}" value="{{sexIndex}}" bindchange="pickerSexSelected">
+           <text>{{actionSexItems[sexIndex]}}</text>
+      </picker>
+      <text class="righthead"></text>
+    </view>
+
+    <view class="userdata">
+      <view class="userdata-name">星座</view>
+      <view class="userdata-symbol"></view>
+      <picker mode="selector" class="userdata-input" range="{{actionConItems}}" value="{{conIndex}}" bindchange="pickerConSelected">
+           <text>{{actionConItems[conIndex]}}</text>
+      </picker>
+      <text class="righthead"></text>
+    </view>
+
+    <view class="userdata">
+      <view class="userdata-name" >地区</view>
+      <view class="userdata-symbol"></view>
+      <input class="userdata-input" type="text" value="{{item.province}}"/>
+      <text class="righthead"></text>
+    </view>
+
+    <button  type="button" bindtap="buttontap" class="userbutton" style="background: {{btnColor}};">保存</button>
+  </block>
+
+</view>

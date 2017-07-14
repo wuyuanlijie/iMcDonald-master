@@ -1,0 +1,160 @@
+/* pages/qrcode/qrcode.wxss */
+page {
+  height: 95%;
+  background: #F5F5F5;
+}
+/*上部分的样式*/
+.usercodeinfo {
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   padding: 20rpx 30rpx 10rpx 30rpx;
+   background: #fff;
+}
+.usercodeinfo-detail{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding-top: -20rpx;
+  margin-left: 30rpx;
+}
+
+/*上部分第一行text*/
+
+.usercodeinfo-detail-firstline-name {
+  font-size: 36rpx;
+  font-weight: 400;
+
+}
+/*上部分第二行text*/
+.usercodeinfo-detail-secondline {
+  font-size: 21rpx;
+  display: flex;
+  align-items: center;
+}
+.usercodeinfo-detail-secondline-allintegral {
+  font-size: 23rpx;
+  font-weight: 400;
+  margin: 0rpx 10rpx 0rpx 0rpx;
+}
+.usercodeinfo-detail-secondline-availableintegral{
+  font-size: 23rpx;
+  font-weight: 400;
+  margin: 0rpx 10rpx 0rpx 0rpx;
+}
+
+/*上部分图片*/
+.usercodeinfo-avatar-img {
+  width: 120rpx;
+  height: 120rpx;
+  border-radius: 50%;
+}
+
+.usercodeinfo-qrcode-img {
+  width: 50rpx;
+  height: 50rpx;
+}
+.usercodeinfo-detail-questionimg {
+  width: 25rpx;
+  height: 25rpx;
+}
+
+/*下部分样式*/
+
+.userintegral {
+  width: 100%;
+  padding: 50rpx 0rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+/*下部分第一行代码*/
+.userintegral-text1 {
+  padding: 50rpx 0rpx 10rpx rpx;
+  font-weight: 400;
+  font-size: 32rpx;
+}
+
+/*下部分第二行代码*/
+.userintegral-text2 {
+  padding: 20rpx 0rpx;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+}
+.userintegral-text2-dot1 {
+  height: 10rpx;
+  width: 10rpx;
+  border-radius: 50%;
+  background-color: #000;
+}
+.userintegral-text2-dot2 {
+  height: 10rpx;
+  width: 10rpx;
+  border-radius: 50%;
+  background-color: #000;
+}
+
+.userintegral-text2-dot1:before {
+  content: "";
+  display: inline-block;
+  height: 1rpx;
+  width: 180rpx;
+  background: #6c6c6c;
+  position: absolute;
+  margin-top:5rpx;
+  margin-left: -180rpx;
+  margin-right: 5px;
+
+}
+.userintegral-text2-dot2:after {
+  content: "";
+  display: inline-block;
+  height: 1rpx;
+  width: 180rpx;
+  background: #6c6c6c;
+  position: absolute;
+  margin-top:5rpx;
+  margin-left: 5px;
+  margin-right: 5px;
+
+}
+
+
+.userintegral-text2-text {
+  font-weight: 400;
+  font-size: 50rpx;
+}
+/*下部分第三行代码*/
+.userintegral-show {
+  width: 87%;
+  display: flex;
+  flex-direction: row;
+  font-size: 24rpx;
+  justify-content: space-between;
+}
+.userintegral-show-text3 {
+  color: #6c6c6c;
+}
+.userintegral-show-query {
+  font-weight: 400;
+}
+/*下部分二维码样式*/
+
+.userintegral-qrcode-img {
+  padding: 40rpx 0rpx 30rpx 0rpx;
+  height: 420rpx;
+  width: 420rpx;
+}
+/*下部分按钮样式*/
+.userintegral-button {
+  width: 90%;
+  padding: 9rpx 5rpx;
+  font-size: 30rpx;
+  font-weight: 400;
+  background-color: #ffc324;
+  color: white;
+  border-radius: 6rpx;
+}
