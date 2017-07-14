@@ -150,8 +150,7 @@ https://github.com/wuyuanlijie/iMcDonald-master
 
 ## WHO I AM ？
 **本人江西财经大学大三学生，热爱前端、喜欢切图、足球keeper、LOL（为了Full Stack，目前不玩了，但是仅仅是目前，哈哈哈）、王者荣耀...目前正在努力coding...为的是秋招<br>** 
-## FindME!  
-**WeChat: JerryLeelisa   Email: wuyuanlijie@qq.com**
+## Find ME! 
+**WeChat: JerryLeelisa   Email: wuyuanlijie@qq.com**
  
- 
-  <br><br>最后如果您觉得对您学习小程序有帮助的话可以给一个star！谢谢！！！
+ <br>最后如果您觉得对您学习小程序有帮助的话可以给一个star！谢谢！！！
