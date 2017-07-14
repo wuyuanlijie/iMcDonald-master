@@ -1,8 +1,8 @@
 # iMcDonald-master   i麦当劳微信小程序（待完善）
 
 ### 学习使我happy!!!
- 作为全栈的学习者，初学微信小程序，抱着试试做心态，一个星期内初步完成了这个项目。
- ![Alt text](https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/gif/index.gif)
+作为全栈的学习者，初学微信小程序，抱着试试做心态，一个星期内初步完成了这个项目。<br>
+ > ![Alt text](https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/gif/index.gif)
 
  ### 小程序是何方神圣？
    小程序是一种新的开放能力，开发者可以快速地开发一个小程序。小程序可以在微信内被便捷地获取和传播，同时具有出色的使用体验。
@@ -48,8 +48,13 @@
  * 文字页面-常见问题、积分规则...
 
 ## 项目GIF
+  ![Alt text](https://github.com/wuyuanlijie/McDonald-s/blob/master/register.gif)
+  
+   ![Alt text](https://github.com/wuyuanlijie/McDonald-s/blob/master/gif/userinfo.gif)
+  
   ![Alt text](https://github.com/wuyuanlijie/McDonald-s/blob/master/jifen.gif)
- ![Alt text](https://github.com/wuyuanlijie/McDonald-s/blob/master/gif/userinfo.gif)
+  
+
 
 
 ## 部分功能解析
@@ -156,4 +161,4 @@ https://github.com/wuyuanlijie/iMcDonald-master
 ## Find ME! 
 **WeChat: JerryLeelisa   Email: wuyuanlijie@qq.com**
  
- <br>最后如果您觉得对您学习小程序有帮助的话可以给一个star！谢谢！！！
+> <br>最后如果您觉得对您学习小程序有帮助的话可以给一个star！谢谢！！！
