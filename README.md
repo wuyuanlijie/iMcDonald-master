@@ -24,7 +24,7 @@
         "pages/userinfo/userinfo",    //个人信息详情>
         "pages/queryintegral/queryintegral",  // 积分查询
         "pages/integralmall/integralmall", // 积分商城
-        "pages/user/user",  //个人信息<br />
+        "pages/user/user",  //个人信息
         "pages/integraldetail/integraldetail",   //  优惠券详情
         "pages/qrcodenull/qrcodenull", // 请求注册页面
         "pages/register/register", // 注册信息页面
