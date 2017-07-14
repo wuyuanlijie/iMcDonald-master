@@ -2,7 +2,8 @@
 
 ### 学习使我happy!!!
  作为全栈的学习者，初学微信小程序，抱着试试做心态，一个星期内初步完成了这个项目。
-    
+ ![Alt text](https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/gif/index.gif)
+
  ### 小程序是何方神圣？
    小程序是一种新的开放能力，开发者可以快速地开发一个小程序。小程序可以在微信内被便捷地获取和传播，同时具有出色的使用体验。
  ### 为什么选择它？
@@ -34,7 +35,7 @@
  
 ## 项目功能
 #### 已实现功能：
- * 注册用户信息 
+ * 注册用户信息 
  * 手机号码验证(这里实现了页面) 
  * 个人信息修改
  * 优惠券信息查看 
@@ -42,12 +43,15 @@
  * 积分查询 
  * 开心通告栏
 #### 未实现功能：
- * 麦有礼卡片(这个是小程序刚上线的功能)
+ * 麦有礼卡片(这个是刚上线的功能)
  * 麦麦同乐会的注册
  * 文字页面-常见问题、积分规则...
 
-## 项目截图
- <img src="https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/image/1.png" />
+## 项目GIF
+  ![Alt text](https://github.com/wuyuanlijie/McDonald-s/blob/master/jifen.gif)
+ ![Alt text](https://github.com/wuyuanlijie/McDonald-s/blob/master/gif/userinfo.gif)
+
+  ![Alt text](https://github.com/wuyuanlijie/McDonald-s/blob/master/register.gif)
 
 ## 部分功能解析
 ### 1. 获取本地信息 
