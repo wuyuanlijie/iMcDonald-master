@@ -19,16 +19,16 @@
  
 ## 页面注册
     "pages":[
-        "pages/index/index",   // 主页<br />
-        "pages/happynotice/happynotice",  //开心通告栏<br />
-        "pages/userinfo/userinfo",    //个人信息详情<br />
-        "pages/queryintegral/queryintegral",  // 积分查询<br />
-        "pages/integralmall/integralmall", // 积分商城<br />
+        "pages/index/index",   // 主页
+        "pages/happynotice/happynotice",  //开心通告栏
+        "pages/userinfo/userinfo",    //个人信息详情>
+        "pages/queryintegral/queryintegral",  // 积分查询
+        "pages/integralmall/integralmall", // 积分商城
         "pages/user/user",  //个人信息<br />
-        "pages/integraldetail/integraldetail",   //  优惠券详情<br />
-        "pages/qrcodenull/qrcodenull", // 请求注册页面<br />
-        "pages/register/register", // 注册信息页面<br />
-        "pages/qrcode/qrcode"  //我的二维码<br />
+        "pages/integraldetail/integraldetail",   //  优惠券详情
+        "pages/qrcodenull/qrcodenull", // 请求注册页面
+        "pages/register/register", // 注册信息页面
+        "pages/qrcode/qrcode"  //我的二维码
      ], 
  
 ## 项目功能
