@@ -18,6 +18,8 @@
  <img src="https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/image/6.png" />
  <img src="https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/image/7.png" />
  <img src="https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/image/7.1.png" />
+ <img src="https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/image/7.2.png" />
+  <img src="https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/image/8.png" />
 
 ## 开发环境：
 
