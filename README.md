@@ -13,6 +13,7 @@
  <img src="https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/image/2.png" />
  <img src="https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/image/3.png" />
  <img src="https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/image/4.png" />
+ <img src="https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/image/4.1.png" />
  <img src="https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/image/4.5.png" />
  <img src="https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/image/5.png" />
  <img src="https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/image/6.png" />
