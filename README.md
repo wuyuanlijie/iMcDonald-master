@@ -1,8 +1,8 @@
 # iMcDonald-master   i麦当劳微信小程序（待完善）
 
 ### 学习使我happy!!!
-作为全栈的学习者，初学微信小程序，抱着试试做心态，一个星期内初步完成了这个项目。<br>
- > ![Alt text](https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/gif/index.gif)
+> 作为全栈的学习者，初学微信小程序，抱着试试做心态，一个星期内初步完成了这个项目。<br>
+![Alt text](https://raw.githubusercontent.com/wuyuanlijie/McDonald-s/master/gif/index.gif)
 
  ### 小程序是何方神圣？
    小程序是一种新的开放能力，开发者可以快速地开发一个小程序。小程序可以在微信内被便捷地获取和传播，同时具有出色的使用体验。
